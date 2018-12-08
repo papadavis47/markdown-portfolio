@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am a nice dude.* I am going to watch an MMA fight tonight. *I am working on my health.*
+
+**I am a Dad.**
